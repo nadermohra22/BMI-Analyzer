@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="WELCOME">أهلا بك</string>
+    <string name="LOGIN">تسجيل الدخول</string>
+    <string name="signup">تسجيل حساب </string>
+    <string name="note1">إذا كنت تملك حساب بالفعل، قم بتسجيل الدخول</string>
+    <string name="note2">لا تملك حساب ؟</string>
+    <string name="note3">اذا كنت لا تملك حسابا.</string>
+    <string name="creatnew">إنشاء حساب جديد</string>
+    <string name="name">الاسم</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="repassword">تأكيد كلمة المرور</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="creat">إنشاء</string>
+    <string name="note4">هل تملك حساب ؟</string>
+</resources>

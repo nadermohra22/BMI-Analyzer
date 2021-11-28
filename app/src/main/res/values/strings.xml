@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name"> Name</string>
+    <string name="username"> Username</string>
+    <string name="password"> Password</string>
+    <string name="repassword"> Re-password</string>
+    <string name="email"> E-Mail</string>
+    <string name="WELCOME"> Welcome Back</string>
+    <string name="LOGIN"> LOGE IN</string>
+    <string name="signup"> Sign Up</string>
+    <string name="note1"> If you already have account, log in</string>
+    <string name="note2">You Don\'t Have An Account?</string>
+    <string name="note3"> If you Don\'t already have account.</string>
+    <string name="creatnew"> Creat New Account</string>
+    <string name="creat">CREATE</string>
+    <string name="note4">You Have An Account?</string>
+</resources>
