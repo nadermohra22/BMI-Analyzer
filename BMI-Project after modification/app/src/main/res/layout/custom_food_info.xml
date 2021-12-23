@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/custom_food_info_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tv_status_background"
+    android:columnCount="4"
+    android:padding="6dp"
+    android:rowCount="3"
+    android:useDefaultMargins="true">
+
+    <ImageView
+        android:id="@+id/food_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_rowSpan="3"
+        android:layout_rowWeight="3"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:background="@drawable/tv_status_background"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/food_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowWeight="1"
+        android:layout_columnSpan="1"
+        android:layout_columnWeight="1"
+        android:padding="1dp"
+        android:text="Food Name"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/but_edit"
+        android:layout_width="75dp"
+        android:layout_height="35dp"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/custom_food_bt"
+        android:text="Edit"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/food_catagory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowWeight="1"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:padding="1dp"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/cal_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowSpan="1"
+        android:layout_rowWeight="1"
+        android:layout_columnSpan="1"
+        android:layout_columnWeight="1"
+        android:layout_margin="1dp"
+        android:gravity="start"
+        android:padding="1dp"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/but_delete"
+        android:layout_width="25sp"
+        android:layout_height="25sp"
+        android:layout_rowSpan="1"
+        android:layout_rowWeight="1"
+        android:layout_columnSpan="1"
+        android:layout_columnWeight="1"
+        android:layout_gravity="bottom|end"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/custom_food_bt"
+        android:text="×"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck" />
+</GridLayout>

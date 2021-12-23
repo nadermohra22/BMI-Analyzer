@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/custom_food_bt.xml" value="0.3828125" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/custom_status_layout.xml" value="0.3828125" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/incshape.xml" value="0.3277777777777778" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/logbutton.xml" value="0.2703125" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/tv_status_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_food_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_list_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main4.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_new_recodr.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_status_list.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/custom_food_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/custom_status_layout.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/recycle_layouut.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/state.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_add_food.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_edit_food.xml" value="0.1" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_food_list.xml" value="0.12195121951219512" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_list_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_main2.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_main3.xml" value="0.4" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_main4.xml" value="0.4" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/activity_new_recodr.xml" value="0.2" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/custom_food_info.xml" value="0.264" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/custom_status_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/OzOz/AndroidStudioProjects/bmi-project-main/app/src/main/res/layout/edit_food.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.254981884057971" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

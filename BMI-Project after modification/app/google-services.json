@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503076938745",
+    "project_id": "bmi-calculator-6562f",
+    "storage_bucket": "bmi-calculator-6562f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503076938745:android:91a508b47d77e623d6d328",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503076938745-cau5k2535v8mi5i5vdikghomgs10ebga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbAgaxop0pi_mtPyTGAVZYODzMm9Sh2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503076938745-cau5k2535v8mi5i5vdikghomgs10ebga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

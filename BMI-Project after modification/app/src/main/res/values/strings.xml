@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BMI Anallyzer</string>
+    <string name="name"> Name</string>
+    <string name="username"> Username</string>
+    <string name="password"> Password</string>
+    <string name="repassword"> Re-password</string>
+    <string name="email"> E-Mail</string>
+    <string name="WELCOME"> Welcome Back</string>
+    <string name="LOGIN"> LOGE IN</string>
+    <string name="signup"> Sign Up</string>
+    <string name="note1"> If you already have account, log in</string>
+    <string name="note2">You Don\'t Have An Account?</string>
+    <string name="note3"> If you Don\'t already have account.</string>
+    <string name="creatnew"> Creat New Account</string>
+    <string name="creat">CREATE</string>
+    <string name="note4">You Have An Account?</string>
+    <string name="completeinfo">Complete Your Information</string>
+    <string name="gender">Gender</string>
+    <string name="weight">Weight</string>
+    <string name="length">Length</string>
+    <string name="dateOfBirth">Data Of Birth</string>
+    <string name="saveData">Save Data</string>
+    <string name="kg">kg</string>
+    <string name="cm">cm</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="newRecord">New Record</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+
+    <string-array name="catagory">
+
+        <item>Fish</item>
+        <item>Fruit</item>
+        <item>Carbohydrates</item>
+        <item>roteins</item>
+
+    </string-array>
+</resources>
